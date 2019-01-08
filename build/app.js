@@ -7,4 +7,4 @@ app.get('*', (req, res)=>{
   res.sendFile(path.join(__dirname, '../build/index.html'));
 })
 
-app.listen(142.93.139.90);
+app.listen(22);
